@@ -21,7 +21,7 @@ A backend application for user authentication, including registration, login, an
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/user-authentication-app.git
+    git clone github.com/atharshafi/Contact-Management-Backend-project.git
     cd user-authentication-app
     ```
 
